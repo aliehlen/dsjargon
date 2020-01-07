@@ -1,4 +1,4 @@
-## Data science quiz
+## Data science jargon quiz
 
 ### Basics
 
@@ -6,7 +6,7 @@
 
 **Names of all group members:** XXXXXXXXXX
 
-### What is the difference between these three roles?
+### What is the difference between these terms?
 
 **Data analyst vs data engineer vs data scientist:** XXXXXXXXXX
 
